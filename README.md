@@ -1,2 +1,2 @@
-# Goodday datepicker
+# Good-day datepicker
 	
