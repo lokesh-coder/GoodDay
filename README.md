@@ -1,3 +1,3 @@
-# Gooday datepicker
+# Good day datepicker
 	
 
